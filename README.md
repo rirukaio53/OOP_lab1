@@ -15,4 +15,4 @@
 
 Мова виконання: Java 
 
-Посилання на відео - 
+Посилання на відео - [https://youtu.be/7nGO7Ma6Kqo](https://youtu.be/7nGO7Ma6Kqo)
